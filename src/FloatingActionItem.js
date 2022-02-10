@@ -281,10 +281,12 @@ const styles = StyleSheet.create({
     paddingRight: 0
   },
   textContainer: {
-    paddingHorizontal: 8,
     elevation: 5,
+    justifyContent:'center',
+    alignItems:'center',
+    width:120,
     borderRadius: 4,
-    height: 22
+    height: 32
   },
   leftTextContainer: {
     marginLeft: 14
